@@ -1,0 +1,4 @@
+id, numero1, numero2, resultado_esperado, tipo_teste
+1, 18, 12, 864, positivo
+2, 15, L, resultado invalido, negativo
+3, 16, , resultado invalido, negativo
